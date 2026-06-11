@@ -1,4 +1,5 @@
 .env
+.repo_url
 venv/
 repo/
 chroma_db/
